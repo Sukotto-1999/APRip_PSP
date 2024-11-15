@@ -1,0 +1,4 @@
+Can be used with untouched ISO.
+
+_C0 CFW FIX (Europe only)
+_L 0x203CB084 0x00000000
