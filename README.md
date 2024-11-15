@@ -23,7 +23,7 @@ DJ Max Portable 3 (JAP) (ULJM-05836)
 ## Failed check, causes and effects
 
 **Various DJMax Games**
-After playing the game for a few minutes, the anti-piracy will; Add distortion to the background music before becoming exceeding the pitch over time, randomize the playback speed of the keysounds and SFX audio, and/or flicker the graphics list to randomly skip drawing textures causing the screen to flash rapidly. After attempting to change the song one or two times, It will lock up the game. This is completely seizure inducing.
+After playing the game for a few minutes, the anti-piracy will; Add distortion to the background music before exceeding the pitch over time, randomize the playback speed of the keysounds and SFX audio, and/or flicker the graphics list to randomly skip drawing textures causing the screen to flash rapidly. After attempting to change the song one or two times, It will lock up the game. This is completely seizure inducing.
 
 The full videos of the effects that happen in the DJMax games can be found here:
 https://youtu.be/f9JciTN5FNc
