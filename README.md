@@ -4,7 +4,7 @@
 These patches are in .xdelta format which can be applied via DeltaPatcher. We've included some screenshots of the effects that happen in a side folder.
 
 ## Supported Games
-TwinBee Portable (JAP) (ULJM-05221) (see notes)
+TwinBee Portable (JAP) (ULJM-05221) (see notes)  
 DJ Max Portable Clazziquai Edition (KOR) (ULKS-46190)  
 Fantasy Golf Pangya Portable (K0R) (ULKS-46164)  
 Fantasy Golf Pangya Portable (JAP) (ULJM-05440)  
