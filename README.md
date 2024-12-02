@@ -4,6 +4,7 @@
 These patches are in .xdelta format which can be applied via DeltaPatcher. We've included some screenshots of the effects that happen in a side folder.
 
 ## Supported Games
+TwinBee Portable (JAP) (ULJM-05221) (see notes)
 DJ Max Portable Clazziquai Edition (KOR) (ULKS-46190)  
 Fantasy Golf Pangya Portable (K0R) (ULKS-46164)  
 Fantasy Golf Pangya Portable (JAP) (ULJM-05440)  
@@ -55,6 +56,9 @@ Only works on CFWs prior to 5.50 GEN-B and is not neccesary for newer CFWs. A CW
 
 **The Idolm@ster SP (JAP, ALL EDITIONS)**\
 This patch completely removes the ScePauth protection from the game and is based on version 1.2 dating from March 2009. The original .ppf patches are included in a side folder as well.
+
+**TwinBee Portable (JAP)**\
+This patch is technically not an anti-piracy fix but is a patch to workaround a game crash if system language is set to anything other than English or Japanese.
 
 ## Unsupported Games with workarounds
 
