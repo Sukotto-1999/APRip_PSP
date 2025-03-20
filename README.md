@@ -142,7 +142,7 @@ Use this CWCheat code or update your CFW:
 **Effect:** Game stops loading and hangs if loading a mission or returning back.
 
 **Workaround:**
-Convert the game to .cso or .dax and use LME-2.3/PRO, make sure you turn off the ISO cache in the CFW settings.
+It is recommended to use the latest version if you're using ARK-4 due to a new UMD delay feature. If you're using PRO/LME, convert the game to .cso or .dax. Make sure you turn off the ISO cache in the CFW settings.
 
 **Soul Calibur Broken Destiny (US/JAP)**
 
@@ -156,7 +156,7 @@ Update your CFW.
 **Effect:** Game crashes after the Majesco logo and sometimes sends the PSP to a complete K.O.
 
 **Workaround:**
-Convert the game to .cso and then use LME-2.3/PRO. You can also optionally press the Start button repeatedly to skip the Majesco logo and bypass the crash.
+It is recommended to use the latest version if you're using ARK-4 due to a new UMD delay feature. If you're using PRO/LME, convert the game to .cso or .dax. You can also optionally press the Start button repeatedly to skip the Majesco logo and bypass the crash.
 
 ## Final notes
 For DJMax Fever, the only difference between the UMD and PSN versions aside from the removal of the copy protection are 2 missions that are impossible to complete (in UMD versions) which is why the PSN version of the game is the only version of DJMax Fever to be supported on PSP RetroAchievements.
