@@ -42,6 +42,9 @@ This product can only be guaranteed to work with legitimate system software.
 
 ## Read notes for xdelta patches
 
+**DJMax Portable 3**\
+There seems to be an error where the playback speed multiplies and then goes back to normal. I can't figure out this issue.
+
 **DJMax Portable Clazziquai Edition**\
 This patch completely removes references to .ISO, .CSO, .DAX or any references especially usbisoloader.pbp. Patch by 2CH.
 
